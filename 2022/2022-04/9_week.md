@@ -18,3 +18,7 @@ Physics.Raycast(worldSpaceCameraPos, worldSpaceBoxPos - worldSpaceCameraPos, out
 ![image](https://github.com/Juesqi/Dream-towering-tree/blob/main/images/2022-4-19speech.png)
 #### 3.设置判断，对检测测出的显示器使用预设定的红色预制件进行显示
 ![image](https://github.com/Juesqi/Dream-towering-tree/blob/main/images/2022-4-19example.png)
+### 二.了解并尝试配置调用Barracuda
+![image](https://github.com/Juesqi/Dream-towering-tree/blob/main/images/2022-4-19Barracuda.png)
+### 三.查找了MixedReality-WebRTC实现音视频通话的资料
+![image](https://github.com/Juesqi/Dream-towering-tree/blob/main/images/2022-4-19Arallow.png)
