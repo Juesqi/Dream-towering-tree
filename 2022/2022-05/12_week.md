@@ -14,6 +14,7 @@
     软件：汇编器 编译器（高级语言 ）
 
 2.mathematics for computer science整理
+
 3.根据北大助教github项目明确学习资源 MIT UC
     数学：
         信息论 informaation theory and entropy 
